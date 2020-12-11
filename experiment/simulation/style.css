@@ -1,0 +1,56 @@
+.wrapper {
+        margin: 0 auto;
+      }
+
+      .rang {
+        text-align: center;
+      }
+
+      .rang-title {
+        display: inline-block;
+        width: 200px;
+      }
+
+      .rang-number {
+        width: 100px;
+        margin-top: 40px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        background-color: #fff;
+        color: black;
+      margin-bottom: 40px;
+
+      
+      }
+
+   
+      .meter {
+        display: block;
+        width: 283px;
+        height: 155px;
+        margin-left:40px;
+        margin-right:25px;
+      }
+
+      .meter-shape {
+        -webkit-transform: skewX(-2deg) skewY(1deg);
+                transform: skewX(-2deg) skewY(1deg);
+        stroke-width: 8;
+        stroke-dashoffset: 253;
+        stroke: #ff1515;
+        fill: none;
+      }
+
+      .meter-clock {
+        -webkit-transform: rotate(-54deg);
+                transform: rotate(-54deg);
+        -webkit-transform-origin: 137px 146px;
+                transform-origin: 131px 146px;
+        fill: black;
+      }
+
+      .meter-circle {
+        fill: black;
+
+      }
