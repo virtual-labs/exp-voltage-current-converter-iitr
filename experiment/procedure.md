@@ -1,5 +1,11 @@
-1) Connect the probes and mentioned below:<br> L1-L2,L3-L5,L4-L6.<br/>
-2) Click on the "check" button to check if the connections are right.<br/>
-3) Once you make sure that the connections are right, you may vary the input voltage from 1V to 15V and calculate the output current by pressing "Calculate" button.<br/>
-4) Click on "Add to table" button to add the reading to the table.<br/>
-4) Observe the reading on ammeter for each value oof input voltage.<br/>
+## Procedure
+<b>STEP 1</b>: Connect the components as mentioned:
+(1-3), (2-4), (5-7), (6-8).
+<br>
+<br>
+<b>STEP 2</b>: Click on <b>'Check'</b> button to check the connections. If connected connections are wrong, Make the right connection as per given instruction.
+<br><br>
+<b>STEP 3</b>: If connections are right, Click on the<b>'Start'</b> button to perform the experiment.<br><br>
+<b>STEP 4</b>: Toggle On/Off button to control the power to the system.<br><br>
+<b>STEP 5</b>: Move the <b>'Voltage'</b> range slider to fetch values into table.<br><br>
+<b>STEP 6</b>: Click on <b>'Plot'</b> button to plot the graph.<br><br>

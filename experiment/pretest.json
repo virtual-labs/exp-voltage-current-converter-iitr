@@ -13,34 +13,34 @@
 		"a": "Low voltage dc and ac voltmeter",
 		"b": "Diode match finding",
 		"c": "Light emitting diode",
-		"d": "All of the mentioned"
+		"d": "All of the above"
 	},
 	"correctAnswer": "d"
 }, {
-	"question": "Kirchhoff's second law is based on law of conservation of",
+	"question": "Higher input voltage can be measured in low voltage DC voltmeter using",
 	"answers": {
-		"a": "charge",
-		"b": "energy",
-		"c": "momentum",
-		"d": "mass"
+		"a": "Smaller resistance value",
+		"b": "Higher resistance value",
+		"c": "Random resistance value",
+		"d": "All of the above"
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "Which method can be used for absolute measurement of resistances ?",
+	"question": "Which one of the following V-I converters uses the exponential relationship between current and voltage across a diode?",
 	"answers": {
-		"a": "Ohm's law method",
-		"b": "Wheatstone bridge method",
-		"c": "Releigh method",
-		"d": "Lortentz method"
+		"a": "Diode based",
+		"b": "Resistor-based",
+		"c": "Op-amp based",
+		"d": "Transistor based"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "a"
 }, {
-	"question": "Ohm's law is not applicable to",
+	"question": "How will be the output voltage obtained for an ideal op-amp?",
 	"answers": {
-		"a": "DC circuits",
-		"b": "high currents",
-		"c": "small resistors",
-		"d": "semi-conductors."
+		"a": "Amplifies the difference between the two input voltages",
+		"b": "Amplifies individual voltages input voltages",
+		"c": "Amplifies products of two input voltage",
+		"d": "Output signal cannot be determined"
 	},
-	"correctAnswer": "d"
+	"correctAnswer": "a"
 }]
