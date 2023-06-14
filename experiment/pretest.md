@@ -1,42 +1,41 @@
-## <b> Pre-test
+### Pre-test
 #### Please attempt the following questions
 
-Question 1.
-Voltage to current converter is also called as<br>
+Q1. Voltage to current converter is also called as<br>
 
-A   Current series positive feedback amplifier<br>
-B   Voltage series negative feedback amplifier<br>
-<b>C   Current series negative feedback amplifier</b><br>
-D   Voltage series positive feedback amplifier<br><br>
+a.  Current series positive feedback amplifier<br>
+b.  Voltage series negative feedback amplifier<br>
+c.  Current series negative feedback amplifier<br>
+d.  Voltage series positive feedback amplifier<br>
+  
 
-Question 2.
-Which of the following application uses voltage to current converter?<br>
-A   Low voltage dc and ac voltmeter<br>
-B   Diode match finding<br>
-C   Light emitting diode<br>
-<b>D   All of the mentioned</b><br><br>
+Q2. Which of the following application uses voltage to current converter?<br>
 
-Question 3.
-Kirchhoff's second law is based on law of conservation of<br>
-A   charge<br>
-<b>B   energy</b><br>
-C   momentum<br>
-D   mass<br><br>
+a.  Low voltage dc and ac voltmeter<br>
+b.  Diode match finding<br>
+c.  Light emitting diode<br>
+d.  All of the above<br>
+  
+  
+Q3. Higher input voltage can be measured in low voltage DC voltmeter using<br>
 
-Question 4.
-Which method can be used for absolute measurement of resistances ?<br>
-A   Ohm's law method<br>
-<b>B   Wheatstone bridge method</b><br>
-C   Releigh method<br>
-D   Lortentz method<br><br>
+a.  Smaller resistance value<br>
+b.  Higher resistance value<br>
+c.  Random resistance value<br>
+d.  All of the above<br>
+  
+  
+Q4. Which one of the following V-I converters uses the exponential relationship between current and voltage across a diode?<br>
 
-Question 5.
-Ohm's law is not applicable to<br>
-A   DC circuits<br>
-B   high currents<br>
-C   small resistors<br>
-<b>D   semi-conductors.</b><br><br>
+a.  Diode based<br>
+b.  Resistor based<br>
+c.  Op-amp based<br>
+d.  Transistor based<br>
+  
+  
+Q5. How will be the output voltage obtained for an ideal op-amp?<br>
 
-
-
-
+a.  Amplifies the difference between the two input voltages<br>
+b.  Amplifies individual voltages input voltages<br>
+c.  Amplifies products of two input voltage<br>
+d.  Output signal cannot be determined<br>

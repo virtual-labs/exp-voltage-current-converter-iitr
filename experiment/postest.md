@@ -1,42 +1,41 @@
-## Post test
+### Post Test
 #### Please attempt the following questions
 
-<br>
-Question 1.
-How to modify a low voltage DC voltmeter to low voltage ac voltmeter<br>
+Q1. Which one of the following V-I converters uses feedback to adjust the output current?<br>
 
-<b>A   Add a full wave rectifier in the feedback loop</b><br>
-B   Add a half wave rectifier in the feedback loop<br>
-C   Add a square wave rectifier in the feedback looper<br>
-D   Add a sine wave rectifier in the feedback loop<br><br>
-
-Question 2.
-A differential amplifier ……………<br>
-A   is a part of an Op-amp<br>
-B   has one input and one output<br>
-C   has two outputs<br>
-<b>D   answers (1) and (2)</b><br><br>
-
-Question 3.
-The current to voltage converter photosensitive device can be used as<br>
-<b>A   light intensity meter</b><br>
-B   light radiating meter<br>
-C   light deposotion meter<br>
-D   none of above<br><br>
-
-Question 4.
-How will be the output voltage obtained for an ideal op-amp?<br>
-<b>A   Amplifies the difference between the two input voltages</b><br>
-B   Amplifies individual voltages input voltages<br>
-C   Amplifies products of two input voltage<br>
-D   Output signal cannot be determined<br><br>
-
-Question 5.
-Which is not the ideal characteristic of an op-amp?<br>
-<b>A   Input Resistance –> 0</b><br>
-B   Output impedance –> 0<br>
-C   Bandwidth –> ∞<br>
-D   Open loop voltage gain –> ∞<br><br>
+a.  Resistor<br>
+b.  Op-amp<br>
+c.  Transistor<br>
+d.  Diode
 
 
+Q2. How to modify a low voltage DC voltmeter to low voltage ac voltmeter<br>
 
+a.  Add a full wave rectifier in the feedback loop<br>
+b.  Add a half wave rectifier in the feedback loop<br>
+c.  Add a square wave rectifier in the feedback loop<br>
+d.  Add a sine wave rectifier in the feedback loop<br>
+
+
+Q3. The current to voltage converter photosensitive device can be used as<br>
+
+a.  Light intensity meter<br>
+b.  Light radiating meter<br>
+c.  Light deposition meter<br>
+d.  None of the above<br>
+
+
+Q4. A diode match finder circuit has input voltage of 2.6V and output voltage is 5.78V. Calculate the voltage drop across diode?<br>
+
+a.  2.22V<br>
+b.  8.38V<br>
+c.  3.18V<br>
+d.  15.02V<br>
+
+
+Q5. Which of the following is/are the applications of voltage to current converter?<br>
+
+a.  Zener diode tester<br>
+b.  Low AC and DC Voltmeters<br>
+c.  Testing LED<br>
+d.  All of the above<br>

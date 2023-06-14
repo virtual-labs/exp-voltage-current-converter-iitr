@@ -1,46 +1,46 @@
 [{
+	"question": "Which one of the following V-I converters uses feedback to adjust the output current?",
+	"answers": {
+		"a": "Resistor",
+		"b": "Op-amp",
+		"c": "Transistor",
+		"d": "Diode"
+	},
+	"correctAnswer": "b"
+}, {
 	"question": "How to modify a low voltage DC voltmeter to low voltage ac voltmeter",
 	"answers": {
 		"a": "Add a full wave rectifier in the feedback loop",
 		"b": "Add a half wave rectifier in the feedback loop",
-		"c": "Add a square wave rectifier in the feedback looper",
+		"c": "Add a square wave rectifier in the feedback loop",
 		"d": "Add a sine wave rectifier in the feedback loop"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "A differential amplifier ……………",
-	"answers": {
-		"a": "is a part of an Op-amp",
-		"b": "has one input and one output",
-		"c": "has two outputs",
-		"d": "answers (1) and (2)"
-	},
-	"correctAnswer": "d"
-}, {
 	"question": "The current to voltage converter photosensitive device can be used as",
 	"answers": {
-		"a": "light intensity meter",
-		"b": "light radiating meter",
-		"c": "light deposotion meter",
-		"d": "none of above"
+		"a": "Light intensity meter",
+		"b": "Light radiating meter",
+		"c": "Light deposition meter",
+		"d": "None of the above"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "How will be the output voltage obtained for an ideal op-amp?",
+	"question": "A diode match finder circuit has input voltage of 2.6V and output voltage is 5.78V. Calculate the voltage drop across diode?",
 	"answers": {
-		"a": "Amplifies the difference between the two input voltages",
-		"b": "Amplifies individual voltages input voltages",
-		"c": "Amplifies products of two input voltage",
-		"d": "Output signal cannot be determined"
+		"a": "2.22V",
+		"b": "8.38V",
+		"c": "3.18V",
+		"d": "15.02V"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "c"
 }, {
-	"question": "Which is not the ideal characteristic of an op-amp?",
+	"question": "Which of the following is/are the applications of voltage to current converter?",
 	"answers": {
-		"a": "Input Resistance –> 0",
-		"b": "Output impedance –> 0",
-		"c": "Bandwidth –> ∞",
-		"d": "Open loop voltage gain –> ∞"
+		"a": "Zener diode tester",
+		"b": "Low AC and DC Voltmeters",
+		"c": "Testing LED",
+		"d": "All of the above"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }]
