@@ -1,46 +1,55 @@
-[{
-	"question": "Voltage to current converter is also called as",
-	"answers": {
-		"a": "Current series positive feedback amplifier",
-		"b": "Voltage series negative feedback amplifier",
-		"c": "Current series negative feedback amplifier",
-		"d": "Voltage series positive feedback amplifier"
-	},
-	"correctAnswer": "c"
-}, {
-	"question": "Which of the following application uses voltage to current converter?",
-	"answers": {
-		"a": "Low voltage dc and ac voltmeter",
-		"b": "Diode match finding",
-		"c": "Light emitting diode",
-		"d": "All of the above"
-	},
-	"correctAnswer": "d"
-}, {
-	"question": "Higher input voltage can be measured in low voltage DC voltmeter using",
-	"answers": {
-		"a": "Smaller resistance value",
-		"b": "Higher resistance value",
-		"c": "Random resistance value",
-		"d": "All of the above"
-	},
-	"correctAnswer": "b"
-}, {
-	"question": "Which one of the following V-I converters uses the exponential relationship between current and voltage across a diode?",
-	"answers": {
-		"a": "Diode based",
-		"b": "Resistor-based",
-		"c": "Op-amp based",
-		"d": "Transistor based"
-	},
-	"correctAnswer": "a"
-}, {
-	"question": "How will be the output voltage obtained for an ideal op-amp?",
-	"answers": {
-		"a": "Amplifies the difference between the two input voltages",
-		"b": "Amplifies individual voltages input voltages",
-		"c": "Amplifies products of two input voltage",
-		"d": "Output signal cannot be determined"
-	},
-	"correctAnswer": "a"
-}]
+{
+	"version": 2.0,
+	"questions": [
+		{
+			"question": "Voltage to current converter is also called as",
+			"answers": {
+				"a": "Current series positive feedback amplifier",
+				"b": "Voltage series negative feedback amplifier",
+				"c": "Current series negative feedback amplifier",
+				"d": "Voltage series positive feedback amplifier"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "Which of the following application uses voltage to current converter?",
+			"answers": {
+				"a": "Low voltage dc and ac voltmeter",
+				"b": "Diode match finding",
+				"c": "Light emitting diode",
+				"d": "All of the above"
+			},
+			"correctAnswer": "d"
+		},
+		{
+			"question": "Higher input voltage can be measured in low voltage DC voltmeter using",
+			"answers": {
+				"a": "Smaller resistance value",
+				"b": "Higher resistance value",
+				"c": "Random resistance value",
+				"d": "All of the above"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "Which one of the following V-I converters uses the exponential relationship between current and voltage across a diode?",
+			"answers": {
+				"a": "Diode based",
+				"b": "Resistor-based",
+				"c": "Op-amp based",
+				"d": "Transistor based"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "How will be the output voltage obtained for an ideal op-amp?",
+			"answers": {
+				"a": "Amplifies the difference between the two input voltages",
+				"b": "Amplifies individual voltages input voltages",
+				"c": "Amplifies products of two input voltage",
+				"d": "Output signal cannot be determined"
+			},
+			"correctAnswer": "a"
+		}
+	]
+}

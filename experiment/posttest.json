@@ -1,46 +1,55 @@
-[{
-	"question": "Which one of the following V-I converters uses feedback to adjust the output current?",
-	"answers": {
-		"a": "Resistor",
-		"b": "Op-amp",
-		"c": "Transistor",
-		"d": "Diode"
-	},
-	"correctAnswer": "b"
-}, {
-	"question": "How to modify a low voltage DC voltmeter to low voltage ac voltmeter",
-	"answers": {
-		"a": "Add a full wave rectifier in the feedback loop",
-		"b": "Add a half wave rectifier in the feedback loop",
-		"c": "Add a square wave rectifier in the feedback loop",
-		"d": "Add a sine wave rectifier in the feedback loop"
-	},
-	"correctAnswer": "a"
-}, {
-	"question": "The current to voltage converter photosensitive device can be used as",
-	"answers": {
-		"a": "Light intensity meter",
-		"b": "Light radiating meter",
-		"c": "Light deposition meter",
-		"d": "None of the above"
-	},
-	"correctAnswer": "a"
-}, {
-	"question": "A diode match finder circuit has input voltage of 2.6V and output voltage is 5.78V. Calculate the voltage drop across diode?",
-	"answers": {
-		"a": "2.22V",
-		"b": "8.38V",
-		"c": "3.18V",
-		"d": "15.02V"
-	},
-	"correctAnswer": "c"
-}, {
-	"question": "Which of the following is/are the applications of voltage to current converter?",
-	"answers": {
-		"a": "Zener diode tester",
-		"b": "Low AC and DC Voltmeters",
-		"c": "Testing LED",
-		"d": "All of the above"
-	},
-	"correctAnswer": "d"
-}]
+{
+	"version": 2.0,
+	"questions": [
+		{
+			"question": "Which one of the following V-I converters uses feedback to adjust the output current?",
+			"answers": {
+				"a": "Resistor",
+				"b": "Op-amp",
+				"c": "Transistor",
+				"d": "Diode"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "How to modify a low voltage DC voltmeter to low voltage ac voltmeter",
+			"answers": {
+				"a": "Add a full wave rectifier in the feedback loop",
+				"b": "Add a half wave rectifier in the feedback loop",
+				"c": "Add a square wave rectifier in the feedback loop",
+				"d": "Add a sine wave rectifier in the feedback loop"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "The current to voltage converter photosensitive device can be used as",
+			"answers": {
+				"a": "Light intensity meter",
+				"b": "Light radiating meter",
+				"c": "Light deposition meter",
+				"d": "None of the above"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "A diode match finder circuit has input voltage of 2.6V and output voltage is 5.78V. Calculate the voltage drop across diode?",
+			"answers": {
+				"a": "2.22V",
+				"b": "8.38V",
+				"c": "3.18V",
+				"d": "15.02V"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "Which of the following is/are the applications of voltage to current converter?",
+			"answers": {
+				"a": "Zener diode tester",
+				"b": "Low AC and DC Voltmeters",
+				"c": "Testing LED",
+				"d": "All of the above"
+			},
+			"correctAnswer": "d"
+		}
+	]
+}
