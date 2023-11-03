@@ -6,7 +6,7 @@
 <b>Discipline | <b> Electronics and Communications
 :--|:--|
 <b> Lab | <b> Analog Electronics
-<b> Experiment|     <b> 6. 	Voltage to current converter.
+<b> Experiment|     <b> 5. 	Voltage to current converter.
 
 <h5> About the Experiment : </h5> <br>
 
