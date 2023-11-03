@@ -116,6 +116,20 @@
 				}
 			}
 			function updateAll() {
+
+                 let toggle =1;
+
+				 if(toggle ===1) {
+
+					document.getElementById('stop').disabled = 0;
+
+				 }
+
+				 else {
+
+					document.getElementById('stop').disabled =1;
+				 }
+
 				f = f + temp;
 				temp = f - temp;
 				f = f - temp;
@@ -137,7 +151,9 @@
 			}
 			function stop() {
 				alert("You cannot read more values");
-				//document.getElementById("stop").disabled="true";
+				// document.getElementById('btn12').disabled = true;
+				
+				document.getElementById("stop").disabled="true";
 			}
 
 			function updateTextBox(val) {
@@ -146,7 +162,10 @@
 					document.getElementById("x").value = val + "V";
 					document.getElementById("y").value = "";
 				}
-				else alert("Please turn on the Power  ");
+				else if (f==0) {
+
+					document.getElementById('stop').disabled =true;
+				}
 			}
 
 		</script>
@@ -189,7 +208,7 @@
 			<br>
 			<tr style="position: absolute;top: 24%;right: 8.5%;">
 				<th><b>Voltage (in V)</b></th>
-				<td><input type="range" min="1" max="20" step="0.1" onchange="insert()"
+				<td><input type="range" min="1" max="20" step="0.1" disabled="1"  onchange="insert()"
 						oninput="updateTextBox(this.value)" id="stop" value="0"></td>
 
 			</tr>
@@ -214,7 +233,7 @@
 									border-bottom-style:hidden;
 									background-color:#D3D3D3;
 									color:black;
-									position: absolute;
+									position: absolute;text-align: center;
     top: -68px;
 									" disabled />
 				</td>
@@ -236,6 +255,7 @@
 									background-color:#DCDCDC;
 									color:black;
 									position: absolute;
+									text-align: center;
     top: -61px;
 									" disabled />
 				</td>
@@ -243,7 +263,7 @@
 		</table>
 
 		<div class="graph">
-			<button class="btn btn-danger" onclick="plot()" style="  position: absolute;
+			<button class="btn btn-danger" id="btn12" onclick="plot()" style="  position: absolute;
 			top: -37px;width: 100px;">Plot</button>
 			<div style="position:absolute;bottom:99.6%;left:38%;"><button class="btn btn-danger" id="button1"
 					onclick="printf()" style="width: 100px;">Print</button><br /></div>
